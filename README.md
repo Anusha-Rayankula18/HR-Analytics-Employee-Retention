@@ -18,6 +18,11 @@ Improved Hiring Processes:- Savvy recruitment analytics saves both time and mone
 Onboarding:- Improve retention and productivity with an onboarding process strengthened by dashboards. Track the delivery of electronic documents, new hire orientation and compliance processes, and job-specific training or other important steps as you get new team members up to speed.
 
 
+(https://github.com/Anusha-Rayankula18/HR-Analytics-Employee-Retention/assets/167794071/3abac7fc-6d36-4161-a065-a6a7fcf01fba)
+
+
+
+
 
 
 
