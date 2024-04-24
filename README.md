@@ -16,3 +16,10 @@ Data-Driven Decision Making:- Spot trends and understand challenges and opportun
 Improved Hiring Processes:- Savvy recruitment analytics saves both time and money by helping managers make informed talent decisions or assess employees’ performance more objectively when evaluating staff for promotions.
 
 Onboarding:- Improve retention and productivity with an onboarding process strengthened by dashboards. Track the delivery of electronic documents, new hire orientation and compliance processes, and job-specific training or other important steps as you get new team members up to speed.
+
+
+
+
+
+
+
